@@ -10,7 +10,7 @@ I am excited to present Studyfy, a powerful productivity application designed to
 ![Screenshot 2024-06-13 181033](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/22220449-692e-4267-96dd-1b7a0bd86df9)
 
 
-#                                                        presentation
+#                                                        Presentation
 
 ![Screenshot 2024-06-14 175922](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/e4a43300-0863-4d27-90be-221e85ff2fe8)
 ![Screenshot 2024-06-14 175958](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/ac9cae9b-f3a0-44be-b068-bd70e2259656)
