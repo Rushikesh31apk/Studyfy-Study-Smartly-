@@ -5,6 +5,13 @@ Introduction:
 
 I am excited to present Studyfy, a powerful productivity application designed to help students study smarter and achieve better grades with less effort. Studyfy leverages the latest Android development technologies, including Kotlin, Jetpack Compose, and Material 3, to provide a modern, intuitive, and highly efficient user experience.
 
+# App Screens
+
+![Screenshot 2024-06-13 181033](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/22220449-692e-4267-96dd-1b7a0bd86df9)
+
+
+
+
 ![Screenshot 2024-06-14 175922](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/e4a43300-0863-4d27-90be-221e85ff2fe8)
 ![Screenshot 2024-06-14 175958](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/ac9cae9b-f3a0-44be-b068-bd70e2259656)
 ![Screenshot 2024-06-14 180348](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/4100209c-36a1-447b-933a-f5dfacc9b641)
@@ -16,9 +23,9 @@ I am excited to present Studyfy, a powerful productivity application designed to
 ![Screenshot 2024-06-14 180336](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/6c3cd109-10b8-4845-83fe-45490f6d574f)
 
 
-Real-Life Uses and Solutions to Student Problems:
+# Real-Life Uses and Solutions to Student Problems:
 
-Efficient Time Management:
+# Efficient Time Management:
 
 Problem: Many students struggle with managing their study time effectively, often leading to cramming sessions before exams.
 
@@ -44,9 +51,9 @@ Problem: Complex navigation and poor user experience can deter students from usi
 
 Solution: With Compose Destination for Navigation, Studyfy offers a seamless and intuitive navigation experience. Users can easily switch between the Dashboard, Subject Screen, Session Screen, and Task Screen, enhancing the overall usability of the app.l̥
 
-Key Features and Technologies:
+# Key Features and Technologies:
 
-Jetpack Compose with Material 3:
+# Jetpack Compose with Material 3:
 
 Modern UI Design: By utilizing Jetpack Compose with Material 3, Studyfy offers a visually appealing and user-friendly interface. The seamless integration of Compose simplifies UI development, making the app more responsive and adaptable to different screen sizes.
 Consistent and Intuitive Design: Material 3 ensures a consistent and intuitive design language across the app, enhancing the user experience and making navigation straightforward.
@@ -68,7 +75,7 @@ Background Task Handling: The Study Session Timer leverages Android Services to 
 Enhanced Productivity: The timer helps students manage their study time better, boosting productivity and ensuring they stay focused on their tasks.
 Screens and User Experience:
 
-Dashboard Screen:
+# Dashboard Screen:
 
 Overview of Progress: Provides a comprehensive overview of the user's study progress, upcoming tasks, and recent activities.
 Quick Access: Users can quickly access different sections of the app, such as subjects, sessions, and tasks.
