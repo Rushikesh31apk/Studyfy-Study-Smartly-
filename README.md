@@ -4,6 +4,18 @@
 Introduction:
 
 I am excited to present Studyfy, a powerful productivity application designed to help students study smarter and achieve better grades with less effort. Studyfy leverages the latest Android development technologies, including Kotlin, Jetpack Compose, and Material 3, to provide a modern, intuitive, and highly efficient user experience.
+
+![Screenshot 2024-06-14 175922](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/e4a43300-0863-4d27-90be-221e85ff2fe8)
+![Screenshot 2024-06-14 175958](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/ac9cae9b-f3a0-44be-b068-bd70e2259656)
+![Screenshot 2024-06-14 180348](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/4100209c-36a1-447b-933a-f5dfacc9b641)
+![Screenshot 2024-06-14 180240](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/91a15b04-6e1c-4ec7-9652-6e77a3eae271)
+![Screenshot 2024-06-14 180255](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/
+![Screenshot 2024-06-14 180225](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/311773a0-ea99-4aef-9413-5e2eb1013d5c)
+146608071/2f0ac92a-9a08-486b-8f2b-4ff06e8c082a)
+![Screenshot 2024-06-14 180323](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/8e9d81a7-ddae-4b65-bc85-17c5d6c0511f)
+![Screenshot 2024-06-14 180336](https://github.com/Rushikesh31apk/Studyfy-Study-Smartly-/assets/146608071/6c3cd109-10b8-4845-83fe-45490f6d574f)
+
+
 Real-Life Uses and Solutions to Student Problems:
 
 Efficient Time Management:
