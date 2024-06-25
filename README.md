@@ -1,5 +1,5 @@
 
-# Studyfy (StudySmartly) Android Application
+# Studyfy (StudySmartly) Android Application.
 
 Introduction:
 
